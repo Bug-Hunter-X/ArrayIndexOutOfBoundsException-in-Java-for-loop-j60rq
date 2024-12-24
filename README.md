@@ -1,0 +1,1 @@
+This repository demonstrates a common Java programming error: an ArrayIndexOutOfBoundsException caused by an off-by-one error in a for loop. The `Bug.java` file contains the erroneous code, resulting in an exception when it attempts to access an index that is out of bounds. The solution is provided in `BugSolution.java`, which corrects the loop condition to prevent the error.
